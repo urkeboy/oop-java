@@ -5,7 +5,7 @@ Homework/project in **Object-Oriented Programming 2 (13E112OO2)** at the Univers
 
 ## Problems
 
-For each problem, a system of classes providing certain functions is written in Java. The requirements are described in respective problem statements. 
+For each problem, a Java package with a GUI (graphical user interface) is written. The requirements are described in respective problem statements. 
 
 * 1. problem 1 - Ice cream shop
     * classes: Flavor, IceCream, SoftServePlace, IceCreamMachine, IceCreamShop.
